@@ -1,0 +1,7 @@
+The GNU General Public License (GPL)
+
+Version 1, July 2017
+
+Copyright (C) Sajed Ahmed Khan
+
+sajedaiub@gmail.com  
