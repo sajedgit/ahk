@@ -89,6 +89,12 @@ By default, the hard carriage return (Enter) between the previous line and this 
 By default, the indentation (tab) to the left of this line is preserved.See continuation section for how to change these default behaviors.
 )
 
+::phpart::
+(
+php artisan serve --host=localhost  --port=80
+
+)
+
 ::gridstr::
 (
 <div class = "container">
